@@ -1,2 +1,3 @@
 # hello-world
-A beginner repository used to help me learn github. 
+This is github. This is editing a file. 
+So, far so good. 
